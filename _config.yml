@@ -2,6 +2,7 @@ name: YWAM Emerge
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.20885712606832385
+title: YWAM Emerge
 cta:
   domain: null
   bucket: null
