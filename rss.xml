@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[YWAM Emerge]]></title>
+        <description><![CDATA[YWAM Emerge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 02:09:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are catalysts pioneering change in missions.]]></title>
+            <description><![CDATA[<article><h1>We are catalysts pioneering change in missions.</h1><p>Our mission is to serve proven leaders in finding innovative solutions to engage the least reached. </p></article>]]></description>
+            <link>undefined4991ed34-c793-47d8-99af-a669a159b49e/index.html</link>
+            <guid isPermaLink="false">4991ed34-c793-47d8-99af-a669a159b49e</guid>
+            <pubDate>Fri, 22 Jan 2016 02:09:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
